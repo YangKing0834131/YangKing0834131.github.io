@@ -56,8 +56,8 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: YangKing0834131
+Disqus（https://disqus.com/）
+disqus_username: YangKing0834131
 
 # Gitalk
 gitalk:
